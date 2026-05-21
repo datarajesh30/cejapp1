@@ -1,0 +1,11 @@
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\AspNet10LTSWebsite.exe
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\publish\web.config
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\appsettings.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\publish\appsettings.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\publish\AspNet10LTSWebsite.deps.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\publish\AspNet10LTSWebsite.runtimeconfig.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\publish\AspNet10LTSWebsite.staticwebassets.endpoints.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\AspNet10LTSWebsite.dll
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\AspNet10LTSWebsite.deps.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\AspNet10LTSWebsite.runtimeconfig.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\bin\Release\net10.0\publish\AspNet10LTSWebsite.pdb

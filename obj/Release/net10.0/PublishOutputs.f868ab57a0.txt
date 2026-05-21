@@ -1,0 +1,6 @@
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\publish\AspNet10LTSWebsite.exe
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\publish\appsettings.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\publish\AspNet10LTSWebsite.dll
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\publish\AspNet10LTSWebsite.deps.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\publish\AspNet10LTSWebsite.runtimeconfig.json
+C:\Users\i2k2\Downloads\AspNet10LTSWebsite\publish\AspNet10LTSWebsite.pdb

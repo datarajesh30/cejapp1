@@ -1,0 +1,5 @@
+{
+    "azureAutomation.directory.basePath": "c:\\Users\\i2k2",
+    "appService.preDeployTask": "publish-release",
+    "appService.deploySubpath": "bin/Release/net10.0/publish"
+}
